@@ -21,4 +21,4 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## License
 
-Please refer to the LICENSEin the repo.
+Please refer to the LICENSE in the repo.
